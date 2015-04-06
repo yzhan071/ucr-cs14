@@ -1,1 +1,1 @@
-# ucr-cs14-15spr
+# UCR CS 14 Spring 2015
